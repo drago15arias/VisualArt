@@ -4,7 +4,7 @@ const chatbot = {
       quienes_somos: "Somos una empresa que se dedica a ofrecer servicios de alta calidad en el área de diseños,maketing,logos entre otros. Nuestra misión es proporcionar soluciones innovadoras y efectivas para nuestros clientes, para mas informacion escribe (que_servicios_ofrecemos)",
       que_servicios_ofrecemos: "Ofrecemos una variedad de servicios, incluyendo (diseño grafico, publicidad en redes sociales,edicion de videos,marketing digital,realizacion de diapositivas,impresiones,branding para redes sociales,manejo de redes sociales). Si tienes alguna pregunta sobre nuestros servicios, no dudes en preguntar, si necesitas de nuestros servicios encuentra nuestro contacto escribiendo (como_puedo_contactar_con_ustedes). ",
       como_puedo_contactar_con_ustedes: "Puedes contactar con nosotros a través de nuestro teléfono [+58 424-562.14.03], correo electrónico [correo] o visitando nuestra oficina en [dirección],",
-      tengo_alguna_pregunta_frecuente: "Sí, aquí tienes algunas preguntas frecuentes y nuestras respuestas: [lista de preguntas y respuestas]"
+      tengo_alguna_pregunta_frecuente: "Sí, aquí tienes algunas preguntas frecuentes y nuestras respuestas: [lista de preguntas y respuestas]",
     },
     respuestaPorDefecto: "Lo siento, no entiendo tu pregunta. puedes escribir hola para obtener mas informacion"
   };
